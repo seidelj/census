@@ -1,0 +1,7 @@
+venv
+*.pyc
+*~
+*.swp
+*.ini
+*.json
+*.csv
