@@ -1,5 +1,6 @@
 import os, csv, json, pprint
 from sqlutils import get_or_create
+from sqlalchemy import update
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 DOWNLOAD_DIR = os.path.join(PROJECT_DIR, 'retrieved_json')
@@ -27,6 +28,7 @@ def parse_json(address):
 		for match in data['result']['addressMatches']:
 			blocks = match['geographies']['Census Blocks'][0]
 			blockList.append(blocks['BLOCK'])
+				
 		if len(set(blockList)) != 1:
 			reason = "no match" if len(set(blockList)) == 0 else "multiple match"
 			e.write("'{}','{}','{}','{}','{}','{}','{}'\n".format(
@@ -39,15 +41,18 @@ def parse_json(address):
 				reason,
 			))
 		else:
+			print filename
 			block_info = data['result']['addressMatches'][0]['geographies']['Census Blocks'][0]
-			block, created = get_or_create(session, Geography, block=block_info['BLOCK'])
-			if created:
-				block.state = block_info['STATE']
-				block.county = block_info['COUNTY']
-				block.tract = block_info['TRACT']
-				block.blockgrp = block_info['BLKGRP']
-
+			block, created = get_or_create(session, Geography, 
+				block=block_info['BLOCK'], state=block_info['STATE'],
+				county=block_info['COUNTY'], tract=block_info['TRACT'],
+				blockgrp=block_info['BLKGRP']
+			)
+			session.commit()
 			address.geography_id = block.id
+		
+		##	TO SLOW
+		#	session.query(Address).filter(address.id==address.id).update({'geography_id': block.id})
 		
 
 if __name__ == "__main__":
