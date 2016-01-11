@@ -26,4 +26,3 @@ def import_to_sql(filename):
 
 if __name__ == "__main__":
 	main()
-				
