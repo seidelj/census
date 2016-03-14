@@ -6,3 +6,5 @@ venv
 *.ini
 *.json
 *.csv
+!variable_list.csv
+

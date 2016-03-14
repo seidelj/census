@@ -1,0 +1,280 @@
+Census Data API: Variables in /data/2013/acs5/variables,,,,
+variable_name,definition,Concept,,
+B00001_001E,Total,B00001. Unweighted Sample Count of the Population,,
+B00001_001M,Margin Of Error For!!Total,B00001. Unweighted Sample Count of the Population,,
+B00002_001E,Total,B00002. Unweighted Sample Housing Units,,
+B00002_001M,Margin Of Error For!!Total,B00002. Unweighted Sample Housing Units,,
+B01003_001E,Total,B01003. Total Population,,
+B01003_001M,Margin Of Error For!!Total,B01003. Total Population,,
+B05001_001E,Total:,B05001. Nativity and Citizenship Status in the United States,not required,int
+B05001_001M,Margin Of Error For!!Total:,B05001. Nativity and Citizenship Status in the United States,,
+B05001_002E,"U.S. citizen, born in the United States",B05001. Nativity and Citizenship Status in the United States,,
+B05001_002M,"Margin Of Error For!!U.S. citizen, born in the United States",B05001. Nativity and Citizenship Status in the United States,,
+B05001_004E,"U.S. citizen, born abroad of American parent(s)",B05001. Nativity and Citizenship Status in the United States,,
+B05001_004M,"Margin Of Error For!!U.S. citizen, born abroad of American parent(s)",B05001. Nativity and Citizenship Status in the United States,,
+B05009_001E,Total:,B05009. Age and Nativity of Own Children Under 18 Years by Number and Nativity of Parents,not required,int
+B05009_001M,Margin Of Error For!!Total:,B05009. Age and Nativity of Own Children Under 18 Years by Number and Nativity of Parents,,
+B05009_033E,Child is foreign born,B05009. Age and Nativity of Own Children Under 18 Years by Number and Nativity of Parents,,
+B05009_033M,Margin Of Error For!!Child is foreign born,B05009. Age and Nativity of Own Children Under 18 Years by Number and Nativity of Parents,,
+B05010_001E,Total:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,,
+B05010_001M,Margin Of Error For!!Total:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,,
+B05010_002E,Under 1.00:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,not required,int
+B05010_002M,Margin Of Error For!!Under 1.00:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,,
+B05010_010E,1.00 to 1.99:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,not required,int
+B05010_010M,Margin Of Error For!!1.00 to 1.99:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,,
+B05010_018E,2.0 and over:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,not required,int
+B05010_018M,Margin Of Error For!!2.0 and over:,B05010. Ratio of Income to Poverty Level in the Past 12 Months of Children by Living Arrangements and Nativity of Parents,,
+B06007_001E,Total:,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,not required,int
+B06007_001M,Margin Of Error For!!Total:,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_002E,Speak only English,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_002M,Margin Of Error For!!Speak only English,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_003E,Speak Spanish:,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_003M,Margin Of Error For!!Speak Spanish:,B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_004E,Speak English 'very well',B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_004M,Margin Of Error For!!Speak English 'very well',B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_005E,Speak English less than 'very well',B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06007_005M,Margin Of Error For!!Speak English less than 'very well',B06007. PLACE OF BIRTH BY LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH IN THE UNITED STATES,,
+B06008_001E,Total:,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_001M,Margin Of Error For!!Total:,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_002E,Never married,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_002M,Margin Of Error For!!Never married,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_003E,"Now married, except separated",B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_003M,"Margin Of Error For!!Now married, except separated",B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_004E,Divorced,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_004M,Margin Of Error For!!Divorced,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_005E,Separated,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06008_005M,Margin Of Error For!!Separated,B06008. PLACE OF BIRTH BY MARITAL STATUS IN THE UNITED STATES,,
+B06009_001E,Total:,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_001M,Margin Of Error For!!Total:,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_002E,Less than high school graduate,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_002M,Margin Of Error For!!Less than high school graduate,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_003E,High school graduate (includes equivalency),B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_003M,Margin Of Error For!!High school graduate (includes equivalency),B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_004E,Some college or associate's degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_004M,Margin Of Error For!!Some college or associate's degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_005E,Bachelor's degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_005M,Margin Of Error For!!Bachelor's degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_006E,Graduate or professional degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06009_006M,Margin Of Error For!!Graduate or professional degree,B06009. PLACE OF BIRTH BY EDUCATIONAL ATTAINMENT IN THE UNITED STATES,,
+B06010_001E,Total:,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_001M,Margin of Error for!!Total:,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_002E,No income,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_002M,Margin of Error for!!No income,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_003E,With income:,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_003M,Margin of Error for!!With income:,B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_004E,"With income:!!$1 to $9,999 or loss",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_004M,"Margin of Error for!!With income:!!$1 to $9,999 or loss",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_005E,"With income:!!$10,000 to $14,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_005M,"Margin of Error for!!With income:!!$10,000 to $14,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_006E,"With income:!!$15,000 to $24,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_006M,"Margin of Error for!!With income:!!$15,000 to $24,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_007E,"With income:!!$25,000 to $34,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_007M,"Margin of Error for!!With income:!!$25,000 to $34,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_008E,"With income:!!$35,000 to $49,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_008M,"Margin of Error for!!With income:!!$35,000 to $49,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_009E,"With income:!!$50,000 to $64,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_009M,"Margin of Error for!!With income:!!$50,000 to $64,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_010E,"With income:!!$65,000 to $74,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_010M,"Margin of Error for!!With income:!!$65,000 to $74,999",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_011E,"With income:!!$75,000 or more",B06010. Place of Birth by Individual Income in the United States,not required,int
+B06010_011M,"Margin of Error for!!With income:!!$75,000 or more",B06010. Place of Birth by Individual Income in the United States,,
+B06012_001E,Total:,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_001M,Margin Of Error For!!Total:,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_002E,Below 100 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_002M,Margin Of Error For!!Below 100 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_003E,100 to 149 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_003M,Margin Of Error For!!100 to 149 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_004E,At or above 150 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,not required,int
+B06012_004M,Margin Of Error For!!At or above 150 percent of the poverty level,B06012. PLACE OF BIRTH BY POVERTY STATUS IN THE PAST 12 MONTHS IN THE UNITED STATES,,
+B07001_001E,Total:,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_001M,Margin Of Error For!!Total:,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_002E,1 to 4 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_002M,Margin Of Error For!!1 to 4 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_003E,5 to 17 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_003M,Margin Of Error For!!5 to 17 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_004E,18 and 19 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_004M,Margin Of Error For!!18 and 19 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_005E,20 to 24 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_005M,Margin Of Error For!!20 to 24 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_006E,25 to 29 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_006M,Margin Of Error For!!25 to 29 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_007E,30 to 34 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_007M,Margin Of Error For!!30 to 34 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_008E,35 to 39 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_008M,Margin Of Error For!!35 to 39 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_009E,40 to 44 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_009M,Margin Of Error For!!40 to 44 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_010E,45 to 49 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_010M,Margin Of Error For!!45 to 49 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_011E,50 to 54 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_011M,Margin Of Error For!!50 to 54 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_012E,55 to 59 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_012M,Margin Of Error For!!55 to 59 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_013E,60 to 64 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_013M,Margin Of Error For!!60 to 64 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_014E,65 to 69 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_014M,Margin Of Error For!!65 to 69 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_015E,70 to 74 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_015M,Margin Of Error For!!70 to 74 years,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_016E,75 years and over,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_016M,Margin Of Error For!!75 years and over,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_017E,Same house 1 year ago:,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,not required,int
+B07001_017M,Margin Of Error For!!Same house 1 year ago:,B07001. Geographical Mobility in the Past Year by Age for Current Residence in the U.S.,,
+B09005_001E,Total:,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_001M,Margin Of Error For!!Total:,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_002E,In family households:,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_002M,Margin Of Error For!!In family households:,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_003E,In family households:!!In married-couple family,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_003M,Margin Of Error For!!In family households:!!In married-couple family,"B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_004E,"In family households:!!In male householder, no wife present, family","B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_004M,"Margin Of Error For!!In family households:!!In male householder, no wife present, family","B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_005E,"In family households:!!In female householder, no husband present, family","B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",not required,int
+B09005_005M,"Margin Of Error For!!In family households:!!In female householder, no husband present, family","B09005. Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)",,
+B09010_001E,Total:,"B09010. Receipt of SSI, Public Assistance Income, or Food Stamps/SNAP in the Past 12 Mnths by Hhld Type for Children < 18 in Hhl",not required,int
+B09010_001M,Margin Of Error For!!Total:,"B09010. Receipt of SSI, Public Assistance Income, or Food Stamps/SNAP in the Past 12 Mnths by Hhld Type for Children < 18 in Hhl",not required,int
+B09010_002E,"Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:","B09010. Receipt of SSI, Public Assistance Income, or Food Stamps/SNAP in the Past 12 Mnths by Hhld Type for Children < 18 in Hhl",not required,int
+B09010_002M,"Margin Of Error For!!Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:","B09010. Receipt of SSI, Public Assistance Income, or Food Stamps/SNAP in the Past 12 Mnths by Hhld Type for Children < 18 in Hhl",,
+B09018_001E,Total:,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_001M,Margin of Error for!!Total:,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_002E,Own child:,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_002M,Margin of Error for!!Own child:,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_003E,Own child:!!Biological child,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_003M,Margin of Error for!!Own child:!!Biological child,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_004E,Own child:!!Adopted child,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_004M,Margin of Error for!!Own child:!!Adopted child,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_005E,Own child:!!Stepchild,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_005M,Margin of Error for!!Own child:!!Stepchild,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_006E,Grandchild,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_006M,Margin of Error for!!Grandchild,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_007E,Other relatives,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_007M,Margin of Error for!!Other relatives,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_008E,Foster child or other unrelated child,B09018. Relationship to Householder for Children Under 18 Years in Households,not required,int
+B09018_008M,Margin of Error for!!Foster child or other unrelated child,B09018. Relationship to Householder for Children Under 18 Years in Households,,
+B19051_001E,Total:,B19051. Earnings for Households,not required,int
+B19051_001M,Margin Of Error For!!Total:,B19051. Earnings for Households,not required,int
+B19051_002E,With earnings,B19051. Earnings for Households,not required,int
+B19051_002M,Margin Of Error For!!With earnings,B19051. Earnings for Households,not required,int
+B19051_003E,No earnings,B19051. Earnings for Households,not required,int
+B19051_003M,Margin Of Error For!!No earnings,B19051. Earnings for Households,not required,int
+B19052_001E,Total:,B19052. Wage or Salary Income for Households,not required,int
+B19052_001M,Margin Of Error For!!Total:,B19052. Wage or Salary Income for Households,not required,int
+B19052_002E,With wage or salary income,B19052. Wage or Salary Income for Households,not required,int
+B19052_002M,Margin Of Error For!!With wage or salary income,B19052. Wage or Salary Income for Households,not required,int
+B19052_003E,No wage or salary income,B19052. Wage or Salary Income for Households,not required,int
+B19052_003M,Margin Of Error For!!No wage or salary income,B19052. Wage or Salary Income for Households,not required,int
+B19053_001E,Total:,B19053. Self-Employment Income for Households,not required,int
+B19053_001M,Margin Of Error For!!Total:,B19053. Self-Employment Income for Households,not required,int
+B19053_002E,With self-employment income,B19053. Self-Employment Income for Households,not required,int
+B19053_002M,Margin Of Error For!!With self-employment income,B19053. Self-Employment Income for Households,not required,int
+B19053_003E,No self-employment income,B19053. Self-Employment Income for Households,not required,int
+B19053_003M,Margin Of Error For!!No self-employment income,B19053. Self-Employment Income for Households,,
+B19055_001E,Total:,B19055. Social Security Income for Households,not required,int
+B19055_001M,Margin Of Error For!!Total:,B19055. Social Security Income for Households,not required,int
+B19055_002E,With Social Security income,B19055. Social Security Income for Households,not required,int
+B19055_002M,Margin Of Error For!!With Social Security income,B19055. Social Security Income for Households,not required,int
+B19055_003E,No Social Security income,B19055. Social Security Income for Households,not required,int
+B19055_003M,Margin Of Error For!!No Social Security income,B19055. Social Security Income for Households,not required,int
+B19056_001E,Total:,B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19056_001M,Margin Of Error For!!Total:,B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19056_002E,With Supplemental Security Income (SSI),B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19056_002M,Margin Of Error For!!With Supplemental Security Income (SSI),B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19056_003E,No Supplemental Security Income (SSI),B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19056_003M,Margin Of Error For!!No Supplemental Security Income (SSI),B19056. Supplemental Security Income (SSI) for Households,not required,int
+B19057_001E,Total:,B19057. Public Assistance Income for Households,not required,int
+B19057_001M,Margin Of Error For!!Total:,B19057. Public Assistance Income for Households,not required,int
+B19057_002E,With public assistance income,B19057. Public Assistance Income for Households,not required,int
+B19057_002M,Margin Of Error For!!With public assistance income,B19057. Public Assistance Income for Households,not required,int
+B19057_003E,No public assistance income,B19057. Public Assistance Income for Households,not required,int
+B19057_003M,Margin Of Error For!!No public assistance income,B19057. Public Assistance Income for Households,not required,int
+B19058_001E,Total:,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,not required,int
+B19058_001M,Margin Of Error For!!Total:,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,not required,int
+B19058_002E,With cash public assistance or Food Stamps/SNAP,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,not required,int
+B19058_002M,Margin Of Error For!!With cash public assistance or Food Stamps/SNAP,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,not required,int
+B19058_003E,No cash public assistance or Food Stamps/SNAP,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,not required,int
+B19058_003M,Margin Of Error For!!No cash public assistance or Food Stamps/SNAP,B19058. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households,,
+B19101_001E,Total:,B19101. Family Income,not required,int
+B19101_001M,Margin of Error for!!Total:,B19101. Family Income,not required,int
+B19101_002E,"Less than $10,000",B19101. Family Income,not required,int
+B19101_002M,"Margin of Error for!!Less than $10,000",B19101. Family Income,not required,int
+B19101_003E,"$10,000 to $14,999",B19101. Family Income,not required,int
+B19101_003M,"Margin of Error for!!$10,000 to $14,999",B19101. Family Income,not required,int
+B19101_004E,"$15,000 to $19,999",B19101. Family Income,not required,int
+B19101_004M,"Margin of Error for!!$15,000 to $19,999",B19101. Family Income,not required,int
+B19101_005E,"$20,000 to $24,999",B19101. Family Income,not required,int
+B19101_005M,"Margin of Error for!!$20,000 to $24,999",B19101. Family Income,not required,int
+B19101_006E,"$25,000 to $29,999",B19101. Family Income,not required,int
+B19101_006M,"Margin of Error for!!$25,000 to $29,999",B19101. Family Income,not required,int
+B19101_007E,"$30,000 to $34,999",B19101. Family Income,not required,int
+B19101_007M,"Margin of Error for!!$30,000 to $34,999",B19101. Family Income,not required,int
+B19101_008E,"$35,000 to $39,999",B19101. Family Income,not required,int
+B19101_008M,"Margin of Error for!!$35,000 to $39,999",B19101. Family Income,not required,int
+B19101_009E,"$40,000 to $44,999",B19101. Family Income,not required,int
+B19101_009M,"Margin of Error for!!$40,000 to $44,999",B19101. Family Income,not required,int
+B19101_010E,"$45,000 to $49,999",B19101. Family Income,not required,int
+B19101_010M,"Margin of Error for!!$45,000 to $49,999",B19101. Family Income,not required,int
+B19101_011E,"$50,000 to $59,999",B19101. Family Income,not required,int
+B19101_011M,"Margin of Error for!!$50,000 to $59,999",B19101. Family Income,not required,int
+B19101_012E,"$60,000 to $74,999",B19101. Family Income,not required,int
+B19101_012M,"Margin of Error for!!$60,000 to $74,999",B19101. Family Income,not required,int
+B19101_013E,"$75,000 to $99,999",B19101. Family Income,not required,int
+B19101_013M,"Margin of Error for!!$75,000 to $99,999",B19101. Family Income,not required,int
+B19101_014E,"$100,000 to $124,999",B19101. Family Income,not required,int
+B19101_014M,"Margin of Error for!!$100,000 to $124,999",B19101. Family Income,not required,int
+B19101_015E,"$125,000 to $149,999",B19101. Family Income,not required,int
+B19101_015M,"Margin of Error for!!$125,000 to $149,999",B19101. Family Income,not required,int
+B19101_016E,"$150,000 to $199,999",B19101. Family Income,not required,int
+B19101_016M,"Margin of Error for!!$150,000 to $199,999",B19101. Family Income,not required,int
+B19101_017E,"$200,000 or more",B19101. Family Income,not required,int
+B19101_017M,"Margin of Error for!!$200,000 or more",B19101. Family Income,,
+B19113_001E,Median family income in the past 12 months (in 2013 inflation-adjusted dollars),B19113. Median Family Income,not required,int
+B19113_001M,Margin of Error for!!Median family income in the past 12 months (in 2013 inflation-adjusted dollars),B19113. Median Family Income,,
+B25075_001E,Total:,B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_001M,Margin Of Error For!!Total:,B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_002E,"Less than $10,000",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_002M,"Margin Of Error For!!Less than $10,000",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_003E,"$10,000 to $14,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_003M,"Margin Of Error For!!$10,000 to $14,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_004E,"$15,000 to $19,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_004M,"Margin Of Error For!!$15,000 to $19,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_005E,"$20,000 to $24,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_005M,"Margin Of Error For!!$20,000 to $24,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_006E,"$25,000 to $29,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_006M,"Margin Of Error For!!$25,000 to $29,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_007E,"$30,000 to $34,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_007M,"Margin Of Error For!!$30,000 to $34,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_008E,"$35,000 to $39,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_008M,"Margin Of Error For!!$35,000 to $39,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_009E,"$40,000 to $49,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_009M,"Margin Of Error For!!$40,000 to $49,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_010E,"$50,000 to $59,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_010M,"Margin Of Error For!!$50,000 to $59,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_011E,"$60,000 to $69,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_011M,"Margin Of Error For!!$60,000 to $69,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_012E,"$70,000 to $79,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_012M,"Margin Of Error For!!$70,000 to $79,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_013E,"$80,000 to $89,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_013M,"Margin Of Error For!!$80,000 to $89,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_014E,"$90,000 to $99,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_014M,"Margin Of Error For!!$90,000 to $99,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_015E,"$100,000 to $124,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_015M,"Margin Of Error For!!$100,000 to $124,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_016E,"$125,000 to $149,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_016M,"Margin Of Error For!!$125,000 to $149,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_017E,"$150,000 to $174,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_017M,"Margin Of Error For!!$150,000 to $174,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_018E,"$175,000 to $199,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_018M,"Margin Of Error For!!$175,000 to $199,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_019E,"$200,000 to $249,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_019M,"Margin Of Error For!!$200,000 to $249,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_020E,"$250,000 to $299,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_020M,"Margin Of Error For!!$250,000 to $299,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_021E,"$300,000 to $399,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_021M,"Margin Of Error For!!$300,000 to $399,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_022E,"$400,000 to $499,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_022M,"Margin Of Error For!!$400,000 to $499,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_023E,"$500,000 to $749,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_023M,"Margin Of Error For!!$500,000 to $749,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_024E,"$750,000 to $999,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_024M,"Margin Of Error For!!$750,000 to $999,999",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_025E,"$1,000,000 or more",B25075. Value for Owner-Occupied Housing Units,not required,int
+B25075_025M,"Margin Of Error For!!$1,000,000 or more",B25075. Value for Owner-Occupied Housing Units,,
