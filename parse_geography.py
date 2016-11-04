@@ -46,7 +46,7 @@ def parse_json(address):
 			block, created = get_or_create(session, Geography,
 				block=block_info['BLOCK'], state=block_info['STATE'],
 				county=block_info['COUNTY'], tract=block_info['TRACT'],
-				blockgrp=block_info['BLKGRP']
+				blockgrp=block_info['BLKGRP'], geoid=block_info["GEOID"]
 			)
 			session.commit()
 			address.geography_id = block.id
