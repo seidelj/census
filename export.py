@@ -22,7 +22,7 @@ def write_address_csv(modelinfo, f):
         objList = []
         geo = session.query(Geography).filter(Geography.id==address.geography_id).first()
         try:
-            geoid = geo.geoid[:12]
+            geoid = "{}{}{}{}".format(geo.state, geo.county, geo.tract, geo.blockgrp)
         except AttributeError:
             geoid = 'no census match'
         for field in modelinfo:
@@ -35,7 +35,9 @@ def write_data_csv(modelinfo, f):
     header = ['geoid'] + modelinfo[:]
     writer.writerow(header)
     for data in session.query(CensusDataBlk).all():
-        objList = [session.query(Geography).filter(Geography.id==data.id).first().geoid[:12]]
+        geo = session.query(Geography).filter(Geography.censusdatablk_id==data.id).first()
+        geoid = "{}{}{}{}".format(geo.state, geo.county, geo.tract, geo.blockgrp)
+        objList = [geoid]
         for field in modelinfo:
             objList.append(getattr(data, field))
         writer.writerow(objList)
