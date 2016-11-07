@@ -27,7 +27,8 @@ class Geography(Base):
 	tract = Column(String)
 	blockgrp = Column(String)
 	block = Column(String)
-        geoid = Column(String)
+    geoid = Column(String)
+
 	censusdatablk_id = Column(Integer, ForeignKey('censusdatablk.id'))
 
 	censusdatablk = relationship('CensusDataBlk', backref=backref('censusdatablk', order_by=id))

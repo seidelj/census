@@ -33,7 +33,8 @@ $ python models.py
 
 ## Usage
 
-Get geography for the addresses listed in addresses.csv.  First import the addresses from csv to the DB
+Get geography for the addresses listed in addresses.csv.  First import the addresses from csv to the DB.
+Name the file "addresses.csv" and arrange the columns: id, street, city, state, zipcode
 ```
 $ python import_addresses.py
 ```

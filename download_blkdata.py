@@ -34,7 +34,7 @@ def prepare_download(vDict):
 			save_file(html, new_file)
 	else:
 		print "Already downloaded {}".format(new_file)
-	
+
 def download_txt(vDict):
 	url = url_fixes[0] + vDict['variable'] + \
 		url_fixes[1] + vDict['state'] + url_fixes[2] + \
