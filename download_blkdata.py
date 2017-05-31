@@ -16,7 +16,7 @@ except ConfigParser.NoSectionError:
 	sys.exit("Improperly configured key.ini file")
 
 url_fixes = [
-	'http://api.census.gov/data/2013/acs5?get=NAME,',
+	'https://api.census.gov/data/2013/acs5?get=NAME,',
 	'&for=block+group:*&in=state:',
 	'+county:', '&key='
 ]
